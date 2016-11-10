@@ -1,0 +1,81 @@
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.dll
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.pdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.Project.apk
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.Project-Signed.apk
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.dll
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\bin\Project.Project.apk
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\res\layout\main.xml
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\res\values\strings.xml
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\R.cs.flag
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\uploadflags.txt
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\res\drawable\icon.png
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Mono.Android.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\System.Xml.Linq.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\System.ServiceModel.Internals.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\System.Core.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\System.Xml.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\System.Runtime.Serialization.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Java.Interop.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\mscorlib.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\System.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\System.ComponentModel.Composition.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\bin\Debug\System.Net.Http.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\System.Xml.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\System.Net.Http.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\System.Core.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\Project.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\Java.Interop.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\System.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\mscorlib.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\android\assets\Mono.Android.dll.mdb
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\res\layout\splash_screen.xml
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\res\values\style.xml
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\Project.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\Project.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\Project.Project.apk
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\Project.Project-Signed.apk
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\Project.dll
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\Project.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\bin\Project.Project.apk
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\res\layout\splash_screen.xml
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\res\values\style.xml
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\res\layout\main.xml
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\res\values\strings.xml
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\res\drawable\icon.png
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\R.cs.flag
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\uploadflags.txt
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\System.ComponentModel.Composition.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\mscorlib.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\System.ServiceModel.Internals.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\System.Net.Http.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\System.Runtime.Serialization.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\System.Core.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\System.Xml.Linq.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\Java.Interop.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\Project.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\Mono.Android.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\System.Xml.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\System.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\System.Xml.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\System.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\mscorlib.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\Project.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\System.Core.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\Java.Interop.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\Mono.Android.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\android\assets\System.Net.Http.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\res\layout\info.xml
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\obj\Debug\Project.dll.mdb
+\\buffalo.cs.fiu.edu\homes\Desktop\Project\Project\bin\Debug\Project.dll.mdb

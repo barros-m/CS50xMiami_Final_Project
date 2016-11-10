@@ -1,0 +1,12 @@
+App2.SplashActivity, Project;md50370d1334946a055a46f8ef17ce860e3.SplashActivity
+App2.SplashActivity, Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50370d1334946a055a46f8ef17ce860e3.SplashActivity
+App2.SplashActivity;md50370d1334946a055a46f8ef17ce860e3.SplashActivity
+app2.SplashActivity;md50370d1334946a055a46f8ef17ce860e3.SplashActivity
+Project.Description, Project;md58a8d1f160ebfe1bfc6c49b1c426b087c.Description
+Project.Description, Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a8d1f160ebfe1bfc6c49b1c426b087c.Description
+Project.Description;md58a8d1f160ebfe1bfc6c49b1c426b087c.Description
+project.Description;md58a8d1f160ebfe1bfc6c49b1c426b087c.Description
+Project.MainActivity, Project;md58a8d1f160ebfe1bfc6c49b1c426b087c.MainActivity
+Project.MainActivity, Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a8d1f160ebfe1bfc6c49b1c426b087c.MainActivity
+Project.MainActivity;md58a8d1f160ebfe1bfc6c49b1c426b087c.MainActivity
+project.MainActivity;md58a8d1f160ebfe1bfc6c49b1c426b087c.MainActivity

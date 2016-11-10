@@ -1,0 +1,2 @@
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.dll
+\\buffalo.cs.fiu.edu\homes\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
